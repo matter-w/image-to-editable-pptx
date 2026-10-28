@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image to Editable PPTX"
+  short_description: "Rebuild raster slides as editable PowerPoint"
+  default_prompt: "Use $image-to-editable-pptx to convert this image into a faithful editable PowerPoint with native text boxes."
